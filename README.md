@@ -21,6 +21,8 @@ This is an empty project based on Next.js 13, with some useful (essential) depen
 
 - react-dom
 
+- react-icon
+
 ## Others
 
 - editorconfig
